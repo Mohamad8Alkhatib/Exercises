@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\bin\Debug\net9.0\Exercises.exe
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\bin\Debug\net9.0\Exercises.deps.json
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\bin\Debug\net9.0\Exercises.runtimeconfig.json
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\bin\Debug\net9.0\Exercises.dll
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\bin\Debug\net9.0\Exercises.pdb
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.dll
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\refint\Exercises.dll
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.pdb
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\Exercises.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Advanced programming\Exersixes\obj\Debug\net9.0\ref\Exercises.dll

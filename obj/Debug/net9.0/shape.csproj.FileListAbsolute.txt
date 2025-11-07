@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Advanced programming\shape\bin\Debug\net9.0\shape.exe
+C:\Users\Admin\Desktop\Advanced programming\shape\bin\Debug\net9.0\shape.deps.json
+C:\Users\Admin\Desktop\Advanced programming\shape\bin\Debug\net9.0\shape.runtimeconfig.json
+C:\Users\Admin\Desktop\Advanced programming\shape\bin\Debug\net9.0\shape.dll
+C:\Users\Admin\Desktop\Advanced programming\shape\bin\Debug\net9.0\shape.pdb
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.dll
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\refint\shape.dll
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.pdb
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\shape.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Advanced programming\shape\obj\Debug\net9.0\ref\shape.dll
